@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+span {
+    background-color: black;
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+}
+
+span:hover {
+    background-color: yellow;
+}
+
+div {
+    margin: -5px 0;
+}
